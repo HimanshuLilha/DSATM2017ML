@@ -1,0 +1,15 @@
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\DemoClass.exe.config
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\DemoClass.exe
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\DemoClass.pdb
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\obj\Debug\DemoClass.csprojResolveAssemblyReference.cache
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\obj\Debug\DemoClass.Form1.resources
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\obj\Debug\DemoClass.Properties.Resources.resources
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\obj\Debug\DemoClass.csproj.GenerateResource.Cache
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\obj\Debug\DemoClass.exe
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\obj\Debug\DemoClass.pdb
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\AForge.dll
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\AForge.Imaging.dll
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\AForge.Math.dll
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\AForge.xml
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\AForge.Imaging.xml
+c:\users\hililh\documents\visual studio 2015\Projects\DemoClass\DemoClass\bin\Debug\AForge.Math.xml
